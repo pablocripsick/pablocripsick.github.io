@@ -1,0 +1,56 @@
+.logo-img{
+    width: 100px;
+}
+.nav-item .nav-link {
+    /* background-color: rgb(160, 82, 82); */
+    margin-right: 5px;
+}
+.nav-item .nav-link{
+    color: rgb(0, 0, 0) !important; 
+}
+.history{
+    background-color: rgb(rgba(253, 253, 253, 0));
+}
+.four{
+   
+    background-size: cover;
+    background-position: 50% 50%;
+    padding: 6rem 0;
+    align-items: center;
+
+}
+footer{
+    background-color: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-top: 50px;
+    color: gray;
+}
+.socio-link{
+    font-size: 2.3rem;
+    color: lightgray;
+    text-decoration: none;
+    transition: 0.5s;
+    margin-right: 10px;
+}
+.socio-link:hover{
+    color: aqua;
+    text-shadow: 0px 0px 7px white;
+}
+p{
+  
+font-family: 'Raleway', sans-serif;
+}
+h2{ 
+  font-family: 'Kdam Thmor Pro', sans-serif;
+
+}
+h1{
+    font-family: 'Underdog', cursive;
+}
+.fine-img img{
+    width: 100%;
+}
+.fine-img{
+    margin: 20px;00000000
+}
